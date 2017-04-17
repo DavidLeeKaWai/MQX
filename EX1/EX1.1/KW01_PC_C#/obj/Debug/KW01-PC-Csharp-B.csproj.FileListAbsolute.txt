@@ -1,0 +1,9 @@
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\bin\Debug\KW01.exe.config
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\bin\Debug\KW01.exe
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\bin\Debug\KW01.pdb
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\obj\Debug\KW01-PC-Csharp-B.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\obj\Debug\SerialPort.FrmMain.resources
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\obj\Debug\KW01-PC-Csharp-B.csproj.GenerateResource.Cache
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\obj\Debug\KW01.exe
+C:\Users\David\Documents\MQX_EX1\KW01_PC_C#\obj\Debug\KW01.pdb
